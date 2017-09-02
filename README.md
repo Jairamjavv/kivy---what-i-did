@@ -10,3 +10,5 @@ Lets dig a bit deeper on what KIVY is about.
      <li> 4.Builtin modules and functions for easy use. </li>
      <li> 5.Support variety of option to play with GUI development. </li>
   
+<br>
+  In the step0_1 I imported the kivy using import. Later I called the App().run()<br>The whole program gonna use class syntax. Object Oriented concepts are required a lot here.<br>
